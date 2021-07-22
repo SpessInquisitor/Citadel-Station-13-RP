@@ -990,7 +990,12 @@
 	name = "facehugger plushie"
 	icon_state = "huggable"
 	pokephrase = "Hug!"
-
+	
+/obj/item/toy/plushie/voxie
+	name = "vox plushie"
+	icon_state = "voxie"
+	pokephrase = "Skree!"
+	
 //foxes are basically the best
 /obj/item/toy/plushie/red_fox
 	name = "red fox plushie"
