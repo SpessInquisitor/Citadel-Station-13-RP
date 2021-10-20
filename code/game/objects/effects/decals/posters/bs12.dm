@@ -288,3 +288,8 @@
 	icon_state="bsposter58"
 	name = "space carp information poster"
 	desc = "This poster showcases an old spacer saying on the dangers of migrant space carp."
+	
+/datum/poster/voxdoujin
+	icon_state="voxdoujin"
+	name = "Securing a Nest Egg"
+	desc = "This poster is from the cover of a pornographic alien magazine. There's a naked Vox front and center, wearing gold bangles and bracelets, with Vox-Pidgin writing for the title. It's hard to tell who would be attracted to this."
