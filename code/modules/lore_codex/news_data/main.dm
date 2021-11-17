@@ -130,9 +130,7 @@
 	name = "2/14/62 - SCG Denounces Aetolian Coup; Mobilizes Fleet"
 	data = "Dismissing claims of inaction, a spokesperson for the Solar Confederate Government today confirmed that the Colonial Assembly has voted overwhelmingly in favor of swift military action in response to the coup on Aetolus earlier this month. Icarus Front Chairperson Mackenzie West was quick to make a damning official statement: \"Dr. Harper and her radical agitators cannot be excused for their violent, despicable attempts to destabilize the flourishing economy of the Almach Rim. The ruthless murder of innocents, and illegal seizure of private property are crimes that cannot merely be met with strong words and gentle slaps to the wrist\"...\"I am proud to announce that two units of brave Solar marines have been assigned to the SCG-R Song Shi rapid response cruiser, with the full backing of the Icarus Front - and I hope with my heart, the backing of all patriotic Solar citizens.\
 	<br><br>\
-	The decision faced resistance from more laissez faire Assembly member states, including prominent SEO governor Bruno Ofako, delaying an earlier consensus. Supporters of the action hope that this decisive display of military strength will encourage the rebels to stand down without further bloodshed, and submit to prosecution by the Lunar High Courts.\
-	<br><br>\
-	The Icarus Front has also proposed a temporary ban on continued Promethean research, though this motion has yet to gain any traction."
+	The decision faced resistance from more laissez faire Assembly member states, including prominent SEO governor Bruno Ofako, delaying an earlier consensus. Supporters of the action hope that this decisive display of military strength will encourage the rebels to stand down without further bloodshed, and submit to prosecution by the Lunar High Courts. The Icarus Front has also proposed a temporary ban on continued Promethean research, though this motion has yet to gain any traction."
 
 /datum/lore/codex/page/article5
 	name = "2/23/62 - \"Almach Association\" Shocks Nation"
