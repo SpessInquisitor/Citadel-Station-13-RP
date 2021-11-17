@@ -4,6 +4,11 @@
 	region. Each is labeled by date of publication and title. This list is self-updating, and from time to time the publisher will push new \
 	articles. You are encouraged to check back frequently."
 	children = list(
+		/datum/lore/codex/page/article71,
+		/datum/lore/codex/page/article70,
+		/datum/lore/codex/page/article69,
+		/datum/lore/codex/page/article68,
+		/datum/lore/codex/page/article67,
 		/datum/lore/codex/page/article66,
 		/datum/lore/codex/page/article65,
 		/datum/lore/codex/page/article64,
@@ -123,7 +128,7 @@
 
 /datum/lore/codex/page/article4
 	name = "2/14/62 - SCG Denounces Aetolian Coup; Mobilizes Fleet"
-	data = "Dismissing claims of inaction, a spokesperson for the Solar Confederate Government today confirmed that the Colonial Assembly has voted overwhelmingly in favor of swift military action in response to the coup on Aetolus earlier this month. Icarus Front Chairperson Mackenzie West was quick to make a damning official statement: \"Dr. Harper and her radical agitators cannot be excused for their violent, despicable attempts to destabilize the flourishing economy of the Almach Rim. The ruthless murder of innocents, and illegal seizure of private property are crimes that cannot merely be met with strong words and gentle slaps to the wrist\"...\"I am proud to announce that two units of brave Solar marines have been assigned to the SCG-R Song Shi rapid response cruiser, with the full backing of the Icarus Front - and I hope with my heart, the backing of all patriotic Solar citizens.\"\
+	data = "Dismissing claims of inaction, a spokesperson for the Solar Confederate Government today confirmed that the Colonial Assembly has voted overwhelmingly in favor of swift military action in response to the coup on Aetolus earlier this month. Icarus Front Chairperson Mackenzie West was quick to make a damning official statement: \"Dr. Harper and her radical agitators cannot be excused for their violent, despicable attempts to destabilize the flourishing economy of the Almach Rim. The ruthless murder of innocents, and illegal seizure of private property are crimes that cannot merely be met with strong words and gentle slaps to the wrist\"...\"I am proud to announce that two units of brave Solar marines have been assigned to the SCG-R Song Shi rapid response cruiser, with the full backing of the Icarus Front - and I hope with my heart, the backing of all patriotic Solar citizens.\"Â\
 	<br><br>\
 	The decision faced resistance from more laissez faire Assembly member states, including prominent SEO governor Bruno Ofako, delaying an earlier consensus. Supporters of the action hope that this decisive display of military strength will encourage the rebels to stand down without further bloodshed, and submit to prosecution by the Lunar High Courts.\
 	<br><br>\
@@ -505,9 +510,9 @@
 	<br><br>\
 	Mason Keldow says, 'People working in orbit say 'Don't go to the surface, Spiders are down there.''\
 	<br><br>\
-	Mason Keldow says, 'And apparently there was a big ol' purple one sitting right by a camp we had set up. A giant mother who'd - if I hadn't met that lovely mass of fur and ice instead - would have probably said its �hello� in the worst possible way.'\
+	Mason Keldow says, 'And apparently there was a big ol' purple one sitting right by a camp we had set up. A giant mother who'd - if I hadn't met that lovely mass of fur and ice instead - would have probably said its hello in the worst possible way.'\
 	<br><br>\
-	Mason Keldow says, 'They are a species that prevents anyone from actually working or otherwise making use of all that land. If I were in office, I'd make an effort to clear out the dangerous species that surround the outer regions of Sif � relocate them if possible - and use that territory for something productive.'\
+	Mason Keldow says, 'They are a species that prevents anyone from actually working or otherwise making use of all that land. If I were in office, I'd make an effort to clear out the dangerous species that surround the outer regions of Sif  relocate them if possible - and use that territory for something productive.'\
 	<br><br>\
 	Mason Keldow says, 'New forms of Transit, new buildings, new jobs.'\
 	<br><br>\
@@ -782,3 +787,37 @@
 	Executive Sifat Unar of the Emergent Intelligence Oversight has voiced immediate concern over the motion, criticising the use of 'foreign government' in reference to Almach; 'Our Fleet has suffered a few defeats, but this conflict goes deeper than mere lasers and shells and to surrender to torturers, mind-hackers, and Machiavellian machines at this stage would be insanity. To allow a seccessionist state, particularly one so unabashedly guilty of crimes against humanity that go far beyond even our modern definitions of 'Human Sanctity', to exist unquestioned a stone's throw from some of our most precious member states, would be a failing not only of this government, but of humanity that would echo through history like a great shameful dirge for all to hear.'\
 	<br><br>\
 	A communications blackout has been instated on the Gavel system by the Almach Militia, though earlier reports indicate continued strikes on numerous civilian colonies who were unwilling, or unable to deactivate their automated defence systems prior to the invaders arrival."
+
+/datum/lore/codex/page/article67
+	name = "11/10/65 - Virgo-5: Nanotrasen's Latest Acquisition?"
+	data = "The Virgo-Erigone governmental authority announced today that it has leased prospecting and limited mining rights to the recently cleansed world of Virgo 5 to Nanotrasen. The company which already owns the phoron rich moon of Virgo 3b in the same system, will now be the first to be able to legally exploit the rich minerals of the Class-D planet which up until recently was under quarantine due to a massive xenomorph infestation./
+	<br><br>/
+	Even with these legal rights given Nanotrasen is not without competition, both xenomorph remnants and illegal mercenary mining operations are active on Virgo 5 and Nanotrasen teams will have to contend with them if they hope to exploit the local mineral wealth."
+	
+/datum/lore/codex/page/article68
+	name = "11/13/65 - Virgo SDF Raids Virgo-5 Xenomorph Hive."
+	data = "The Virgo Erigone System Defense Force, backed up by hired mercenary elements, announced today a successful raid on a Virgo 5 Xenomorph hive. The military forces armed with laser weaponry successfully infiltrated the hive and after taking minimum casualties assassinated a minor xenomorph queen, in a routine xenomorph culling operation./
+	<br><br>/
+	Several research samples were obtained during the operation which the SDF announces will be donated to universities in the Jargon Federation’s core worlds."
+	
+/datum/lore/codex/page/article69
+	name = "11/14/65 - Virgo-5 Latest Test Chamber for Nuclear Science?"
+	data = "Today a Skrell research team announced the beginning of a long-term study focusing on the planet of Virgo-5 in the Virgo Erigone system./
+	<br><br>/
+	The purpose of the study is to observe the long terms effects of radioactive fallout on the planet which recently saw heavy use of nuclear fission explosive as part of a Xenomorph extermination campaign./
+	<br><br>/
+	The research team is hopeful that the data found in this study can help alleviate the aftereffects caused by dirty fissions bombs to prevent fallout storms like what is now blanket Virgo-5 on occasion."
+	
+/datum/lore/codex/page/article70
+	name = "11/16/65 - Illegal Miners and Poachers Arrested on Virgo-5"
+	data = "Today Virgo 5 System Defense Forces, announced the arrest of near a dozen members of a mercenary group while operating illegally on Virgo 5. The SDF had tracked their vessel as it landed on the planet and had moved in to confiscate the vessel while most of its crew were away./
+	<br><br>/
+	The mercenary team surrendered quickly when they realized armed SDF vessels were in orbit blocking any hope of escape. Mining equipment was captured from the mercenaries but also netguns and stasis cages suggesting the miners were attempting to capture xenomorph specimens on the planet, a dire breach of galactic law."
+	
+/datum/lore/codex/page/article71
+	name = "11/17/65 - Abandoned Ship found on Virgo-5"
+	data = "System Defense Forces are reaching out to the wider community today to help identify an abandoned ship that was discovered last night by an SDF patrol. The unflagged vessel, by the equipment it was carrying is thought to have arrived on the planet to engage in illegal mining operations./
+	<br><br>/
+	Signs of struggle were found across the vessel including the presence of bullet casings and wrecked airlocks, though no bodies were recovered. It seems likely that the crew had been killed though whether it was by the local xenomorphs or by a rival group of illegal miners is unknown./
+	<br><br>/
+	Please contact the Virgo Prime Governmental Authority if you have any leads on the owners of the abandoned vessel."
