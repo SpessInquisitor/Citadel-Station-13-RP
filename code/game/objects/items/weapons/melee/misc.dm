@@ -1,6 +1,6 @@
 /obj/item/melee/chainofcommand
 	name = "chain of command"
-	desc = "A tool used by great men to placate the frothing masses."
+	desc = "A ceremonial length of chain, attached to a wooden handle. Representing how every Head of Staff is a link in the chain, these chains 'coincedentally' make for handy emergency weapons."
 	icon_state = "chain"
 	icon = 'icons/obj/weapons.dmi'
 	slot_flags = SLOT_BELT
@@ -124,7 +124,7 @@
 
 /obj/item/melee/skateboard/improv
 	name = "improvised skateboard"
-	desc = "A skateboard. It can be placed on its wheels and ridden, or used as a radical weapon."
+	desc = "A skateboard. Only humans would think to strap tiny wheels onto a plank of wood and call that 'transportation'. Grinding on rails ever since 1959."
 	icon_state = "skateboard"
 	icon = 'icons/obj/weapons.dmi'
 	slot_flags = SLOT_BELT
@@ -146,7 +146,7 @@
 
 /obj/item/melee/skateboard/hoverboard
 	name = "hoverboard"
-	desc = "A blast from the past, so retro!"
+	desc = "Utilizing the latest in miniature hoverjet technology, it takes a great deal of skill to ride a FlyGuy hoverboard. Use with caution."
 	icon_state = "hoverboard_red"
 	board_item_type = /obj/vehicle_old/skateboard/hoverboard
 
@@ -404,7 +404,7 @@
 #define FUEL_BURN_INTERVAL 15
 /obj/item/melee/thermalcutter
 	name = "thermal cutter"
-	desc = "Used by Tyrmalin scrappers to slice trough old space-hulks and robots alike."
+	desc = "Used by Tyrmalin scrappers to slice through old space-hulks and robots alike."
 	icon_state = "thermalcutter"
 	item_state = "thermalcutter"
 	origin_tech = list(TECH_MATERIAL = 4, TECH_PHORON = 3, TECH_ENGINEERING = 4)
