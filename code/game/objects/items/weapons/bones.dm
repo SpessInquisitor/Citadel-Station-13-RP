@@ -36,17 +36,17 @@
 
 /obj/item/bone/arm
 	name = "arm bone"
-	desc = "Wielding this, you're armed and dangerous, no bones about it."
+	desc = "An arm bone. You're not sure what species it might be from, though."
 	attack_verb = list("attacked", "bashed", "battered", "bludgeoned", "whacked", "bonked", "boned", "slapped", "punched")
 	icon_state = "arm"
 
 /obj/item/bone/leg
 	name = "leg bone"
-	desc = "Don't worry about getting into an argument with the owner of this. They don't have a leg to stand on."
+	desc = "A leg bone. You're not sure what species it might be from, though."
 	attack_verb = list("attacked", "bashed", "battered", "bludgeoned", "whacked", "bonked", "boned", "kicked")
 	icon_state = "leg"
 
 /obj/item/bone/ribs
 	name = "ribcage"
-	desc = "If you had some mallets, you could probably use this as a makeshift xylophone."
+	desc = "A ribcage. You're not sure what species it might be from, though."
 	icon_state = "ribs"
