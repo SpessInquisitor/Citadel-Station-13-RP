@@ -93,7 +93,7 @@
 	icon_state = "fireaxe0"
 	base_icon = "fireaxe"
 	name = "fire axe"
-	desc = "Truly, the weapon of a madman. Who would think to fight fire with an axe?"
+	desc = "A hefty axe with a wooden handle and a heavy axe-head. Useful for smashing through barricades, windows, and the occasional wild animal."
 	description_info = "This weapon can cleave, striking nearby lesser, hostile enemies close to the primary target.  It must be held in both hands to do this."
 	unwielded_force_divisor = 0.25
 	force_divisor = 0.5 // 12/30 with hardness 60 (steel) and 0.25 unwielded divisor
@@ -161,7 +161,7 @@
 	return
 
 /obj/item/material/twohanded/fireaxe/bone
-	desc = "Truly, the weapon of a madman. Who would think to fight fire with an axe?"
+	desc = "A hand-crafted heavy axe, made from bone."
 	default_material = "bone"
 	icon_state = "bone_axe0"
 	base_icon = "bone_axe"
@@ -186,7 +186,7 @@
 	icon_state = "scythe0"
 	base_icon = "scythe"
 	name = "scythe"
-	desc = "A sharp and curved blade on a long fibremetal handle, this tool makes it easy to reap what you sow."
+	desc = "A sharp and curved blade on a long fibremetal handle. Often used for harvesting grain."
 	force_divisor = 0.65
 	origin_tech = list(TECH_MATERIAL = 2, TECH_COMBAT = 2)
 	attack_verb = list("chopped", "sliced", "cut", "reaped")
