@@ -1,6 +1,6 @@
 /obj/item/plastique
 	name = "plastic explosives"
-	desc = "Used to put holes in specific areas without too much extra hole."
+	desc = "A carefully-prepared lump of Compound-4 with an attached timer."
 	gender = PLURAL
 	icon = 'icons/obj/assemblies.dmi'
 	icon_state = "plastic-explosive0"
